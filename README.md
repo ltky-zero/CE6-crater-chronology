@@ -2,6 +2,7 @@
 
 [![Data license: CC BY 4.0](https://img.shields.io/badge/data%20license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Code license: MIT](https://img.shields.io/badge/code%20license-MIT-blue.svg)](LICENSE-CODE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22746521.svg)](https://doi.org/10.5281/zenodo.22746521)
 
 Version 1.0.0 of the research compendium for *Provenance of Chang'e-6
 Very-Low-Ti Basalt and Implications for Lunar Impact History*.
@@ -63,8 +64,8 @@ the manuscript and `docs/PROVENANCE.md`.
 ## Citation and archival status
 
 Use `CITATION.cff` to cite version 1.0.0. The source repository is
-`https://github.com/ltky-zero/CE6-crater-chronology`. The archived Zenodo DOI
-will be added here after the version 1.0.0 release has been deposited.
+`https://github.com/ltky-zero/CE6-crater-chronology`. The immutable version 1.0.0
+archive is available from Zenodo at <https://doi.org/10.5281/zenodo.22746521>.
 
 ## License
 

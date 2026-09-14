@@ -4,6 +4,8 @@ title: "CE6 crater chronology data and code"
 type: dataset
 version: "1.0.0"
 repository-code: "https://github.com/ltky-zero/CE6-crater-chronology"
+doi: "10.5281/zenodo.22746521"
+url: "https://doi.org/10.5281/zenodo.22746521"
 license:
   - CC-BY-4.0
   - MIT
