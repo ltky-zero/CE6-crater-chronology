@@ -1,0 +1,5 @@
+﻿identity,age_Ga,reported_age_error_Ga,N1_km-2,reported_N1_error_km-2,role
+CE6_L,2.936,0.026,0.00316,0.00011,Only new point added in this study
+Cui2024 local CE6,2.83,0.005,0.00201,0.0009,Included only in Cui calibration branch
+Yue2026 local CE6,2.807,0.003,0.00208,0.00013,Included only in Yue calibration; comparison marker in legacy panel
+CE6_F this study,not a radiometric calibration age,,0.00239,4e-05,Measured region retained in Table 2; not a new calibration point
