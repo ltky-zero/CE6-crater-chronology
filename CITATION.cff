@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the archived version identified in this file."
+title: "CE6 crater chronology data and code"
+type: dataset
+version: "1.0.0"
+date-released: "2026-09-14"
+authors:
+  - family-names: "Li"
+    given-names: "Tao"
+  - family-names: "Zeng"
+    given-names: "Xingguo"
+  - family-names: "Liu"
+    given-names: "Dawei"
+  - family-names: "Yan"
+    given-names: "Wei"
+  - family-names: "Ren"
+    given-names: "Xin"
+  - family-names: "Chen"
+    given-names: "Wangli"
+  - family-names: "Gao"
+    given-names: "Xingye"
+  - family-names: "Chen"
+    given-names: "Yuan"
+  - family-names: "Li"
+    given-names: "Zhibin"
+  - family-names: "Liu"
+    given-names: "Dingxin"
+  - family-names: "Liu"
+    given-names: "Jianjun"
+keywords:
+  - Chang'e-6
+  - lunar chronology
+  - crater size-frequency distribution
+  - Apollo basin
