@@ -1,6 +1,6 @@
 ﻿path,bytes,sha256,media_type,role
 .gitignore,44,d3ce83d709db19311c436662a3ebb5e9cc02861be8b451a639d808a043807713,application/octet-stream,project metadata
-CITATION.cff,980,31f07c4e0d60a5f1cb9047f04affa1436ab39b2d51ad9529c61df4c31a4c0701,application/octet-stream,project metadata
+CITATION.cff,951,00cfdbdac895ee4091b8e82a5244cd76f64133c26856b31a1f418c539db05e14,application/octet-stream,project metadata
 code/generate_figure3.py,7623,48d0a3171a8422ad47e41923689d74fc74871b3743e09c96f5b86fab4c5c8ecd,text/plain,analysis and figure-generation software
 code/make_fourth_draft.py,36520,7a1009ef3cf0fc03a729dbada7624cd8af3ab3a0ece061446390314a8bc6967a,text/plain,analysis and figure-generation software
 data/chronology/CE6_point_identity.csv,480,2cb9dda4b78dd93eb666863be1927d7bc84938aab925b0812685e9b8d6ab4e55,application/vnd.ms-excel,chronology input or derived fit output
