@@ -4,6 +4,9 @@ title: "CE6 crater chronology data and code"
 type: dataset
 version: "1.0.0"
 repository-code: "https://github.com/ltky-zero/CE6-crater-chronology"
+license:
+  - CC-BY-4.0
+  - MIT
 authors:
   - family-names: "Li"
     given-names: "Tao"
@@ -32,3 +35,4 @@ keywords:
   - lunar chronology
   - crater size-frequency distribution
   - Apollo basin
+date-released: 2026-09-14
