@@ -1,0 +1,13 @@
+# Licensing
+
+This repository uses separate licenses for data and software.
+
+- Original data, derived data products, figures, documentation, and metadata
+  created for this project are licensed under the Creative Commons Attribution
+  4.0 International License (CC BY 4.0). See `LICENSE-DATA`.
+- Source code in `code/` is licensed under the MIT License. See
+  `LICENSE-CODE`.
+
+Third-party materials are not relicensed by this repository. Where a file or
+source is identified as third-party material, its original terms and citation
+requirements continue to apply.
