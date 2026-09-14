@@ -1,5 +1,8 @@
 # CE6 crater chronology data and code
 
+[![Data license: CC BY 4.0](https://img.shields.io/badge/data%20license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Code license: MIT](https://img.shields.io/badge/code%20license-MIT-blue.svg)](LICENSE-CODE)
+
 Version 1.0.0 of the research compendium for *Provenance of Chang'e-6
 Very-Low-Ti Basalt and Implications for Lunar Impact History*.
 
@@ -59,16 +62,18 @@ the manuscript and `docs/PROVENANCE.md`.
 
 ## Citation and archival status
 
-Use `CITATION.cff` for the provisional project citation. The development
-repository is `https://github.com/ltky-zero/CE6-crater-chronology`. Before manuscript
-acceptance, create a versioned GitHub release and archive that release in Zenodo;
-then replace the provisional access wording in the manuscript with the Zenodo DOI
-and add the formal data/software reference. The local release checklist is stored
-outside this repository in `GITHUB_ZENODO_RELEASE_CHECKLIST.md`.
+Use `CITATION.cff` to cite version 1.0.0. The source repository is
+`https://github.com/ltky-zero/CE6-crater-chronology`. The archived Zenodo DOI
+will be added here after the version 1.0.0 release has been deposited.
 
 ## License
 
-The authors have not yet selected reuse licenses for the original data and code.
-No license is granted by this draft package. Select and add explicit data and code
-licenses before making the repository public; record them in the Open Research
-statement and Zenodo metadata.
+This repository uses separate licenses:
+
+- Original data, derived data products, figures, documentation, and metadata
+  created for this project are licensed under the Creative Commons Attribution
+  4.0 International License (CC BY 4.0); see `LICENSE-DATA`.
+- Source code in `code/` is licensed under the MIT License; see `LICENSE-CODE`.
+
+Third-party materials are not relicensed by this repository and remain subject
+to their original terms and citation requirements.
