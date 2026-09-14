@@ -59,7 +59,8 @@ the manuscript and `docs/PROVENANCE.md`.
 
 ## Citation and archival status
 
-Use `CITATION.cff` for the provisional project citation. Before manuscript
+Use `CITATION.cff` for the provisional project citation. The development
+repository is `https://github.com/ltky-zero/CE6-crater-chronology`. Before manuscript
 acceptance, create a versioned GitHub release and archive that release in Zenodo;
 then replace the provisional access wording in the manuscript with the Zenodo DOI
 and add the formal data/software reference. The local release checklist is stored
